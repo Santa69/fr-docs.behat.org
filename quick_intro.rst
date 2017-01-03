@@ -1,12 +1,10 @@
-Introduction rapide à Behat
+Requiere
 ====================
+``Virtual Box``                              
+``Vagrant``                            
+``Cmder`` for windows
 
-Entrez dans l'univers Behat ! Behat est un outil qui rend le "Développement
-Piloté par le Comportement" (Behavior Driven Development, ou BDD) possible.
-Avec le BDD, vous écrivez des spécifications, lisibles par des humains, qui
-décrivent le fonctionnement de votre application. Ces spécifications peuvent
-être exécutées pour en tester l'implémentation dans votre application. Et oui,
-c'est aussi cool que ça en a l'air !
+
 
 par exemple, imaginez que vous souhaitez spécifier une application de listing 
 de fichier, à savoir la fameuse commande UNIX ``ls``.
